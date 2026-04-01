@@ -14,7 +14,7 @@ The Smart Course Registration System is a PHP and MySQL-based web application de
 - **Dynamic Dashboard:** Real-time updates via API endpoints using vanilla JavaScript (Fetch API).
 
 - ## Technology Stack
-- **Frontend:** HTML5, Vanilla CSS, Vanilla JavaScript
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
 - **Architecture:** Client-Server architecture with AJAX-based API endpoints.
@@ -39,15 +39,15 @@ The system uses the following main tables:
 - Password: `admin123`
 
 - ## Screenshots
-- **1.Login Page
+- **1.Login Page**
 - <img width="959" height="525" alt="image" src="https://github.com/user-attachments/assets/d86dd98f-0040-4dad-a181-7c3058895fc7" />
 
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/c42a4c14-924f-494b-aa90-3cab3214c34e" />
 
-**2.Student Dasboard
+**2.Student Dasboard**
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ef7e0617-9e20-4c73-9e9a-3e3a5a4bbc4f" />
 
-**3.Admin Dasboard
+**3.Admin Dasboard**
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/49e0028e-9d18-4ff0-b901-227aa4c030f0" />
 
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ca45156d-63c2-453a-8dba-3c19f719833f" />
